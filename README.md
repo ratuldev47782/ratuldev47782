@@ -67,12 +67,12 @@ fun_fact: "Published IEEE research on deep learning for plant disease detection 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ratuldev47782&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratuldev47782&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ratuldev47782&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratuldev47782&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ratuldev47782&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=ratuldev47782&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -141,10 +141,12 @@ Custom MobileNet V1-based model (*PlantNet*) achieving 94.08% accuracy, outperfo
 ### 📈 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ratuldev47782/ratuldev47782/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ratuldev47782/ratuldev47782/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ratuldev47782/ratuldev47782/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/ratuldev47782/ratuldev47782/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
-
-> 💡 *This snake animation needs a one-time GitHub Actions setup — see the note at the bottom of this file.*
 
 ---
 
@@ -162,15 +164,11 @@ Custom MobileNet V1-based model (*PlantNet*) achieving 94.08% accuracy, outperfo
 <!--
 SETUP NOTES (delete this comment once done):
 
-1. Create a new repo named exactly your GitHub username (e.g. "ratuldev47782/ratuldev47782").
-   GitHub automatically shows that repo's README.md on your profile page.
+1. Profile repo must be named exactly your GitHub username: "ratuldev47782/ratuldev47782".
+   GitHub then shows that repo's README.md on your profile page automatically.
 
-2. Typing header, stats, streak, activity graph, and trophies all work automatically —
-   no setup needed, just replace "ratuldev47782" with your real GitHub username everywhere.
-
-3. For the contribution SNAKE animation:
-   a. In your profile repo, go to Settings > Secrets and variables > Actions (nothing needed here, it uses GITHUB_TOKEN).
-   b. Create .github/workflows/snake.yml with:
+2. For the contribution SNAKE animation, create
+   .github/workflows/snake.yml in that repo with:
 
       name: Generate Snake
       on:
@@ -179,6 +177,8 @@ SETUP NOTES (delete this comment once done):
         workflow_dispatch:
         push:
           branches: [ main ]
+      permissions:
+        contents: write
       jobs:
         generate:
           runs-on: ubuntu-latest
@@ -188,6 +188,7 @@ SETUP NOTES (delete this comment once done):
                 github_user_name: ${{ github.repository_owner }}
                 outputs: |
                   dist/github-contribution-grid-snake.svg
+                  dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             - uses: crazy-max/ghaction-github-pages@v4
               with:
                 target_branch: output
@@ -195,5 +196,22 @@ SETUP NOTES (delete this comment once done):
               env:
                 GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-   c. Push it, run the workflow once manually, and the "output" branch + snake.svg will be created.
+   Push it, run the workflow once manually (Actions tab > Generate Snake > Run workflow),
+   and the "output" branch + both SVGs will be created within a minute or two.
+   NOTE: the default GITHUB_TOKEN needs "Read and write permissions" — check this under
+   repo Settings > Actions > General > Workflow permissions if the push step fails.
+
+3. If GitHub stats / top-langs / activity-graph / trophy images intermittently fail
+   to load, it's because they run on shared free Vercel instances (anuraghazra's
+   github-readme-stats, github-readme-activity-graph, github-profile-trophy) that get
+   rate-limited when many people hit them at once. Fixes, in order of effort:
+     a. Just reload — it's usually a temporary 500/429, not a permanent break.
+     b. Add "&cache_seconds=1800" (already added above) so it's cached longer between hits.
+     c. For real reliability, fork the repo and deploy your own copy to Vercel for free
+        (each project's README has a "Deploy to Vercel" button), then swap the domain
+        in your image URLs for your own *.vercel.app one.
+
+4. The old streak-stats domain "github-readme-streak-stats.herokuapp.com" is the
+   dead one — Heroku killed free dynos, so that URL stopped resolving. This file now
+   points at the maintained domain "streak-stats.demolab.com" instead.
 -->
