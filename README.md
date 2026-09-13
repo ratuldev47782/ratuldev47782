@@ -101,8 +101,8 @@ fun_fact: "Published IEEE research on deep learning for plant disease detection 
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ratuldev47782/ratuldev47782/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ratuldev47782/ratuldev47782/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ratuldev47782/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ratuldev47782/output/github-contribution-grid-snake.svg" />
     <img alt="snake animation" src="https://raw.githubusercontent.com/ratuldev47782/ratuldev47782/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
