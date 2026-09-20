@@ -267,7 +267,7 @@ View Certificate
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics — 2024 to Present
 
 <div align="center">
 
@@ -279,8 +279,11 @@ View Certificate
 
 <img src="https://streak-stats.demolab.com/?user=ratuldev47782&theme=tokyonight&hide_border=true&card_width=700" width="70%" />
 
-</div>
+<br/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ratuldev47782&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
 ---
 
 ## 🐍 Contribution Snake
