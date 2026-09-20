@@ -271,20 +271,30 @@ View Certificate
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ratuldev47782&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180" />
+<!-- GitHub Stats -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=ratuldev47782&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&cache_seconds=86400"
+  height="180"
+  alt="GitHub Statistics"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratuldev47782&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+<!-- Top Languages -->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratuldev47782&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
+  height="180"
+  alt="Top Languages"
+/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=ratuldev47782&theme=tokyonight&hide_border=true&card_width=700&starting_year=2024" width="70%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ratuldev47782&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<!-- GitHub Streak — Starting from 2024 -->
+<img
+  src="https://streak-stats.demolab.com/?user=ratuldev47782&theme=tokyonight&hide_border=true&card_width=700&starting_year=2024"
+  width="70%"
+  alt="GitHub Streak"
+/>
 
 </div>
----
 
 ## 🐍 Contribution Snake
 
