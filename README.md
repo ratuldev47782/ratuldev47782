@@ -277,7 +277,7 @@ View Certificate
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=ratuldev47782&theme=tokyonight&hide_border=true&card_width=700" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=ratuldev47782&theme=tokyonight&hide_border=true&card_width=700&starting_year=2024" width="70%"/>
 
 <br/>
 
