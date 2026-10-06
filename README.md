@@ -1,377 +1,123 @@
-<div align="center">
+<!-- top-badges -->
+<p align="center">
+    <a href="https://github.com/ratuldev47782"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/ratuldev47782?tab=followers"><img src="https://img.shields.io/github/followers/ratuldev47782?color=blue"></a>
+    <a href="https://github.com/ratuldev47782?tab=repositories"><img src="https://img.shields.io/github/stars/ratuldev47782?logo=github&label=stars"></a>
+    <img src="https://komarev.com/ghpvc/?username=ratuldev47782&label=profile+views&color=2E86DE" alt="Profile Views"/>
+</p>
 
+<!-- header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4F72,100:2E86DE&height=200&section=header&text=MD.%20Ratul&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20ERP%20Software%20Engineer&descAlignY=60&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86DE&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+Next.js+%2B+React+%2B+Node.js;ERP+%26+Manufacturing+Software+Engineer;Building+Real-Time+Enterprise+Applications;Turning+Business+Processes+Into+Software;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
+<!-- ticker -->
+<p align="center">
+<a href="https://md-ratul.me/about"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86DE&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B,+I+am+MD.+Ratul;Full-Stack+Developer+%7C+Next.js+%2B+React+%2B+Node.js;ERP+%26+Manufacturing+Software+Engineer;Turning+Business+Processes+Into+Software;Always+learning,+always+shipping+%F0%9F%9A%80" alt="Typing SVG" /></a>
+</p>
 
-<br/>
-
-<a href="mailto:mdratul47782@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/md-ratul-4a8394418/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://md-ratul.me/about">
-<img src="https://img.shields.io/badge/Portfolio-2E86DE?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="https://github.com/ratuldev47782">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ratuldev47782&label=PROFILE+VIEWS&color=2E86DE&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/ratuldev47782?label=FOLLOWERS&style=for-the-badge&color=2E86DE" alt="GitHub Followers" />
-
-</div>
+<!-- contact icons -->
+<p align="center">
+<a href="mailto:mdratul47782@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/md-ratul-4a8394418/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://md-ratul.me/about"><img src="https://img.shields.io/badge/Portfolio-2E86DE?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-I'm **MD. Ratul**, a Full-Stack Developer and ERP Software Engineer focused on building practical, scalable software for real-world business operations.
+I'm **MD. Ratul**, a Full-Stack Developer and ERP Software Engineer focused on building practical, scalable software for real-world business operations. I currently work as **Executive - ERP at HKD Outdoor Innovations Limited** (KEPZ, Chattogram), designing and developing enterprise applications for garment manufacturing.
 
-Currently working as an **Executive - ERP at HKD Outdoor Innovations Limited**, where I design and develop enterprise applications for garment manufacturing operations.
+- 🏭 Building Manufacturing ERP, Production & Quality dashboards, and FG Warehouse systems
+- ⚡ Real-time applications with Socket.IO
+- 🎓 B.Sc. in Computer Science & Engineering, Green University of Bangladesh (2020 – 2024)
+- 🔬 Published researcher in deep learning (IEEE QPAIN 2025)
 
-```yaml
-name: MD. Ratul
-role: Executive - ERP
-company: HKD Outdoor Innovations Limited
+---
 
-specialization:
-  - Full-Stack Web Development
-  - ERP & Manufacturing Software
-  - Production Management
-  - Quality Management
-  - Warehouse Management
-  - Real-Time Dashboards
-  - Business Process Automation
+### 🛠️ Skills
 
-main_stack:
-  frontend: Next.js, React, JavaScript, Tailwind CSS
-  backend: Node.js, Express.js, Next.js API Routes
-  database: MongoDB, Mongoose, MySQL
-  realtime: Socket.IO
-  tools: Git, GitHub, VS Code
+| Property | Data |
+|---|---|
+| **Languages / Frameworks** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-444444?style=flat&logo=express&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) |
+| **Domain Knowledge** | ![ERP](https://img.shields.io/badge/-ERP%20Systems-2E86DE?style=flat) ![Manufacturing](https://img.shields.io/badge/-Garment%20Manufacturing-FAB040?style=flat) ![Warehouse](https://img.shields.io/badge/-Warehouse%20Management-01D277?style=flat) ![Quality](https://img.shields.io/badge/-Quality%20Management-FF6600?style=flat) ![Dashboards](https://img.shields.io/badge/-Real--Time%20Dashboards-4C8CBF?style=flat) ![Automation](https://img.shields.io/badge/-Business%20Automation-8E44AD?style=flat) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
+| **Libraries / Realtime** | ![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat&logo=reactquery&logoColor=white) ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white) ![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat&logo=axios&logoColor=white) ![Recharts](https://img.shields.io/badge/-Recharts-22B5BF?style=flat&logo=react&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white) |
+| **Tools / CI / CD** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
 
-currently_building:
-  - Manufacturing ERP systems
-  - Production & Quality dashboards
-  - FG Warehouse management systems
-  - Business automation tools
+---
 
-education:
-  degree: B.Sc. in Computer Science & Engineering
-  university: Green University of Bangladesh
-  period: 2020 - 2024
+### 💼 Experience
+
+**Executive - ERP** · HKD Outdoor Innovations Limited, KEPZ, Chattogram · *Nov 2025 – Present*
+- Design and develop ERP applications for garment manufacturing operations
+- Build Production, Quality, Maintenance, HR and Finished Goods Warehouse modules
+- Create real-time production and quality dashboards
+- Implement role-based access control and cross-department workflow automation
+
+**Web Developer Intern** · Battery Low Interactive Ltd. · *Jul 2024 – Oct 2024*
+- Built responsive web applications with React, JavaScript and CSS for real client projects
+
+---
+
+### ⭐ Featured Projects
+
+| 🏭 FG Warehouse Management System | 🏗️ Manufacturing ERP System |
+|---|---|
+| Finished-goods warehouse system for garment factories: visual carton allocation, rack & row management, shipment management, barcode scanning & printing, CBM calculation, PO / Style / Buyer search, Excel data processing. | Integrated shop-floor ERP: Production, Quality, Maintenance and Industrial Engineering modules, real-time dashboards, line-wise monitoring, RFT / DHU reporting, machine management, role-based access. |
+| `Next.js` `Express.js` `MongoDB` `Mongoose` `Cloudinary` `JWT` | `Next.js` `Express.js` `MongoDB` `Recharts` `JWT` |
+
+---
+
+### 🔬 Research
+
+**Advancing Plant Disease Detection with Deep Learning** (2024): developed **PlantNet**, a custom MobileNet V1-based model reaching **94.08% accuracy**, compared against CNN, InceptionV3 and VGG16. Presented at **IEEE QPAIN 2025, BAUST, Bangladesh**. [📄 View Certificate](https://drive.google.com/file/d/1DRBpuBdorfKgqdAZyhxU0zJujx6OSJVL/view?usp=sharing)
+
+---
+
+### 📈 GitHub Activity Graph
+
+![Contribution snake](https://raw.githubusercontent.com/ratuldev47782/ratuldev47782/output/github-contribution-grid-snake.svg)
+
+| . | . |
+|---|---|
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ratuldev47782&show_icons=true&theme=radical&count_private=true&hide_border=true) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ratuldev47782&theme=radical&layout=compact&hide_border=true&langs_count=8) |
+
+<img src="https://streak-stats.demolab.com/?user=ratuldev47782&theme=radical&hide_border=true&starting_year=2024" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ratuldev47782&theme=react-dark&hide_border=true&area=true" width="100%"/>
+
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ratuldev47782&theme=radical&no-frame=true&column=7" alt="GitHub Trophies" /></a>
+</p>
+
+---
+
+### 🧭 How I Turn Business Processes Into Software
+
+```mermaid
+graph TD;
+    Shop-Floor-Data-->Production;
+    Shop-Floor-Data-->Quality;
+    Shop-Floor-Data-->Warehouse;
+    Production-->Real-Time-Dashboards;
+    Quality-->Real-Time-Dashboards;
+    Warehouse-->Real-Time-Dashboards;
+    Real-Time-Dashboards-->Reports-and-Decisions;
 ```
 
 ---
 
-## 🚀 What I Build
+### 📫 How to Reach Me
 
-My main focus is **turning complex business workflows into simple, reliable software**.
-
-### 🏭 Manufacturing ERP
-
-* Production monitoring
-* Hourly target vs achievement
-* Line-wise efficiency
-* WIP monitoring
-* Quality inspection
-* RFT / DHU reporting
-* Defect tracking
-* Maintenance management
-* Industrial Engineering workflows
-* Role-based access control
-
-### 📦 Warehouse & Logistics
-
-* Finished goods entry
-* Carton allocation
-* Rack management
-* Shipment management
-* Barcode scanning
-* Barcode printing
-* CBM calculation
-* Stock tracking
-* Excel-based data processing
-
-### 📊 Business Applications
-
-* Real-time dashboards
-* Data visualization
-* Automated reports
-* Workflow automation
-* Multi-department systems
-* REST APIs
-* Authentication & authorization
-* Database-driven enterprise applications
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Frameworks
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express&perline=6" />
+<p align="left">
+<a href="mailto:mdratul47782@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/md-ratul-4a8394418/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/ratuldev47782"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://md-ratul.me/about"><img src="https://img.shields.io/badge/Portfolio-2E86DE?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
-### Database & Backend
+#### Thanks for visiting :heart:
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,drizzle,firebase&perline=6" />
-</p>
-
-### UI, Tools & Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tailwind,git,github,vscode,postman,docker&perline=6" />
-</p>
-
-### Additional Technologies
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-App%20Router-black?style=flat-square&logo=next.js" />
-<img src="https://img.shields.io/badge/React-Modern-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" />
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
-<img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-
-</p>
-
----
-
-## 💼 Professional Experience
-
-### Executive - ERP
-
-**HKD Outdoor Innovations Limited** · KEPZ, Chattogram
-**Nov 2025 – Present**
-
-* Design and develop ERP applications for garment manufacturing operations.
-* Develop Production, Quality, Maintenance, HR and Finished Goods Warehouse modules.
-* Build real-time production and quality dashboards.
-* Implement business workflows and automation across departments.
-* Develop role-based access control and department-specific systems.
-* Integrate data between manufacturing, warehouse and operational processes.
-* Build scalable full-stack applications using Next.js, Node.js, MongoDB and related technologies.
-
-### Web Developer Intern
-
-**Battery Low Interactive Ltd.**
-**Jul 2024 – Oct 2024**
-
-* Developed responsive web applications using React, JavaScript and CSS.
-* Worked on real-world client projects and feature development.
-* Collaborated with team members to deliver projects within deadlines.
-* Improved frontend development and problem-solving skills through practical projects.
-
----
-
-## ⭐ Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🏭 FG Warehouse Management System</h3>
-
-A finished-goods warehouse management system designed for garment factory operations.
-
-<b>Key Features</b>
-
-* Visual carton allocation
-* Rack & row management
-* Shipment management
-* Barcode scanning
-* Barcode printing
-* Carton range printing
-* CBM calculation
-* PO / Style / Buyer search
-* Excel data processing
-* Real-time allocation workflow
-
-<b>Technology</b>
-
-`Next.js` `Express.js` `MongoDB` `Mongoose` `Cloudinary` `JWT`
-
-<br/>
-
-<a href="https://github.com/ratuldev47782">
-<img src="https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🏗️ Manufacturing ERP System</h3>
-
-An integrated ERP solution for garment factory shop-floor operations.
-
-<b>Modules</b>
-
-* Production Management
-* Quality Management
-* Maintenance Management
-* Industrial Engineering
-* Real-time dashboards
-* Line-wise monitoring
-* RFT / DHU reporting
-* Machine management
-* Role-based access control
-
-<b>Technology</b>
-
-`Next.js` `Express.js` `MongoDB` `Recharts` `JWT`
-
-<br/>
-
-<a href="https://github.com/ratuldev47782">
-<img src="https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🔬 Research
-
-### Advancing Plant Disease Detection with Deep Learning
-
-**2024**
-
-Developed **PlantNet**, a custom MobileNet V1-based deep learning model for plant disease detection.
-
-* Achieved **94.08% accuracy**
-* Compared against CNN, InceptionV3 and VGG16 architectures
-* Focused on efficient mobile-oriented disease classification
-* Presented at **IEEE QPAIN 2025, BAUST, Bangladesh**
-
-📄 **Research Certificate**
-
-<a href="https://drive.google.com/file/d/1DRBpuBdorfKgqdAZyhxU0zJujx6OSJVL/view?usp=sharing">
-View Certificate
-</a>
-
----
-
-## 📊 GitHub Statistics — 2024 to Present
-
-<div align="center">
-
-<!-- GitHub Stats -->
-<img
-  src="https://github-readme-stats.vercel.app/api?username=ratuldev47782&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&cache_seconds=86400"
-  height="180"
-  alt="GitHub Statistics"
-/>
-
-<!-- Top Languages -->
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratuldev47782&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
-  height="180"
-  alt="Top Languages"
-/>
-
-<br/><br/>
-
-<!-- GitHub Streak — Starting from 2024 -->
-<img
-  src="https://streak-stats.demolab.com/?user=ratuldev47782&theme=tokyonight&hide_border=true&card_width=700&starting_year=2024"
-  width="70%"
-  alt="GitHub Streak"
-/>
-
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ratuldev47782/ratuldev47782/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ratuldev47782&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  🏭 Manufacturing ERP                                      │
-│  📦 Warehouse & Inventory Systems                          │
-│  ⚡ Real-Time Applications                                  │
-│  📊 Business Intelligence & Dashboards                     │
-│  🔐 Secure Enterprise Applications                         │
-│  🚀 Scalable Full-Stack Architecture                       │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-I'm continuously improving my skills in:
-
-* Advanced Next.js architecture
-* Scalable backend development
-* Database design & optimization
-* Real-time systems
-* Enterprise ERP architecture
-* API design
-* Performance optimization
-* Cloud deployment
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="mailto:mdratul47782@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/md-ratul-4a8394418/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ratuldev47782">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://md-ratul.me/about">
-<img src="https://img.shields.io/badge/Portfolio-2E86DE?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<i>Building software that solves real-world problems 🚀</i>
-
-<br/>
-
-⭐ Feel free to explore my repositories and connect with me!
-
-</div>
+*If you liked my profile, feel free to star ⭐ my repositories. Want to collaborate? Submit a PR or issue, or email me and describe the agenda.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86DE,100:1B4F72&height=120&section=footer" width="100%"/>
