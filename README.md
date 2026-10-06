@@ -76,6 +76,10 @@ I'm **MD. Ratul**, a Full-Stack Developer and ERP Software Engineer focused on b
 
 ### 📈 GitHub Activity Graph
 
+<p align="center">
+<img src="https://ghchart.rshah.org/2E86DE/ratuldev47782" alt="ratuldev47782's GitHub contribution graph" width="100%"/>
+</p>
+
 ![Contribution snake](https://raw.githubusercontent.com/ratuldev47782/ratuldev47782/output/github-contribution-grid-snake.svg)
 
 | . | . |
